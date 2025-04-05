@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/AdvaitP10" target="blank"><img src="https://img.shields.io/twitter/follow/AdvaitP10?logo=twitter&style=for-the-badge" alt="AdvaitP10" /></a> </p>
 
-- 🔭 I’m currently working on [Stock market analysis with AI agents](https://github.com/AdvaitP10/Stock-Market-Analysis-with-AI-Agents)
+- 🔭 I’m currently working on [PrepWise: An AI platform for mock interviewa](https://github.com/AdvaitP10/Prepwise.git)
 
 - 📫 How to reach me **advaitpatole10@gmail.com**
 
